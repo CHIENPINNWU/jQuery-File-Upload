@@ -1,0 +1,15 @@
+{
+    "name": "freee/j-query-file-upload",
+    "authors": [
+        {
+            "name": "CHIENPINNWU",
+            "email": "luke@midgard.tw"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-0" : {
+    		"UploadHandler\\" : "server/php/"
+    	} 
+    },
+}
